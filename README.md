@@ -11,7 +11,9 @@ I'm a GRC and Information Security practitioner based in Sydney, focused on tran
 ISO 27001 · APRA CPS 234 / CPS 230 · NIST CSF · ACSC Essential Eight · ISO 31000 · CSA CAIQ v4 · Privacy Act 1988
 
 🎓 Master's in Information Systems Management — Macquarie University
-🏅 ISO 27001 Lead Auditor
+- 🏅 ISO 27001 Lead Auditor
+- Qualys  Certified Specialist VMDR
+- Azure AZ 900
 
 🌐 **Find me elsewhere**
 - Website: (https://gauravgovind99.github.io)
