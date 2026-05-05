@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Gaurav 👋
 
-<!--
-**gaurav221199/gaurav221199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a GRC and Information Security practitioner based in Sydney, focused on translating regulatory complexity into clear, audit-ready outcomes.
 
-Here are some ideas to get you started:
+🔐 **What I do**
+- Compliance gap analysis & third-party risk assessment
+- ISMS implementation and audit-ready documentation
+- Regulatory mapping for technical and Board audiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Frameworks I work with**
+ISO 27001 · APRA CPS 234 / CPS 230 · NIST CSF · ACSC Essential Eight · ISO 31000 · CSA CAIQ v4 · Privacy Act 1988
+
+🎓 Master's in Information Systems Management — Macquarie University
+🏅 ISO 27001 Lead Auditor
+
+🌐 **Find me elsewhere**
+- Website: (https://gauravgovind99.github.io)
+- LinkedIn: (https://www.linkedin.com/in/gauravgovind99/)
+- 📍 Sydney, NSW
+
+---
+
+📌 *Pinned below: simulated GRC engagements — TPRM, CPS 234 gap assessments, and ISO 27001 ISMS implementation.*
