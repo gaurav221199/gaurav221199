@@ -16,7 +16,6 @@ ISO 27001 · APRA CPS 234 / CPS 230 · NIST CSF · ACSC Essential Eight · ISO 3
 - Azure AZ 900
 
 🌐 **Find me elsewhere**
-- Website: (https://gauravgovind99.github.io)
 - LinkedIn: (https://www.linkedin.com/in/gauravgovind99/)
 - 📍 Sydney, NSW
 
