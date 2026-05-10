@@ -21,4 +21,4 @@ ISO 27001 · APRA CPS 234 / CPS 230 · NIST CSF · ACSC Essential Eight · ISO 3
 
 ---
 
-📌 *Pinned below: simulated GRC engagements — TPRM, CPS 234 gap assessments, and ISO 27001 ISMS implementation.*
+📌 *Pinned below: simulated GRC engagements — TPRM, CPS 234 gap assessments, SOC 2 and ISO 27001 ISMS implementation.*
