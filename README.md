@@ -8,7 +8,7 @@ I'm a GRC and Information Security practitioner based in Sydney, focused on tran
 - Regulatory mapping for technical and Board audiences
 
 📚 **Frameworks I work with**
-ISO 27001 · APRA CPS 234 / CPS 230 · NIST CSF · ACSC Essential Eight · ISO 31000 · CSA CAIQ v4 · Privacy Act 1988
+ISO 27001 · APRA CPS 234 / CPS 230 · NIST CSF · Essential Eight · ISO 31000 · CSA CAIQ v4 · Privacy Act 1988
 
 🎓 Master's in Information Systems Management — Macquarie University
 - 🏅 ISO 27001 Lead Auditor
